@@ -1,6 +1,9 @@
 # PortalForFarmers-WebsiteUI
 A portal for farmers where they get yield prediction of their crops, get current crop prices in local markets (India), option to buy fertilizer
 
+### Tech Stack Used
+React.js, MongoDB, Express, Node.js, Machine Learning, TailwindCSS
+
 
 ## FrontPage Demo
 <img width="473" alt="Screenshot 2023-05-07 192437" src="https://github.com/siddh9001/PortalForFarmers-WebsiteDemo/assets/86849427/42ca7065-9016-473f-af7a-c83223d5a352"> 
